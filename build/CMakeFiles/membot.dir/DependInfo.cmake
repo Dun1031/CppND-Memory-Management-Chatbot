@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/dev/CppND-Memory-Management-Chatbot/src/chatbot.cpp" "/mnt/c/dev/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatbot.cpp.o"
-  "/mnt/c/dev/CppND-Memory-Management-Chatbot/src/chatgui.cpp" "/mnt/c/dev/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatgui.cpp.o"
-  "/mnt/c/dev/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" "/mnt/c/dev/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatlogic.cpp.o"
-  "/mnt/c/dev/CppND-Memory-Management-Chatbot/src/graphedge.cpp" "/mnt/c/dev/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphedge.cpp.o"
-  "/mnt/c/dev/CppND-Memory-Management-Chatbot/src/graphnode.cpp" "/mnt/c/dev/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphnode.cpp.o"
+  "/home/workspace/CppND-Memory-Management-Chatbot/src/chatbot.cpp" "/home/workspace/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatbot.cpp.o"
+  "/home/workspace/CppND-Memory-Management-Chatbot/src/chatgui.cpp" "/home/workspace/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatgui.cpp.o"
+  "/home/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" "/home/workspace/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatlogic.cpp.o"
+  "/home/workspace/CppND-Memory-Management-Chatbot/src/graphedge.cpp" "/home/workspace/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphedge.cpp.o"
+  "/home/workspace/CppND-Memory-Management-Chatbot/src/graphnode.cpp" "/home/workspace/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphnode.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -21,7 +21,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0"
+  "/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0"
   "/usr/include/wx-3.0"
   )
 
